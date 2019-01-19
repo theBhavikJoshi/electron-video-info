@@ -1,0 +1,13 @@
+{
+  "name": "electron-video-info",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "dependencies": {
+    "electron": "^4.0.1",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
